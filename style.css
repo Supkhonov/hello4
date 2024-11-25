@@ -1,0 +1,30 @@
+h1{
+    width: 100px;
+    height: 50px;
+    border-top: 15px red solid;
+    border-right: 15px green solid;
+    border-bottom: 15px pink solid;
+    border-left: 15px yellow solid;
+}
+h2{
+    width: 100px;
+    height: 50px;
+    border-top: 15px dotted greenyellow ;
+    border-right: 15px double greenyellow;
+    border-bottom: 15px dashed greenyellow;
+    border-left: 15px solid greenyellow;
+}
+body{
+    background-color: yellow;
+}
+h3{
+   width: 70px;
+   height: 20px;
+   background-color: white;
+}
+.qaq{
+    width: 100px;
+    height: 50px;
+    border: 5px solid pink;
+    background-color: palevioletred;
+}
